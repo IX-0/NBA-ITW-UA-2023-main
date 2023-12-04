@@ -6,3 +6,15 @@ Tecnologias usadas:
   - Bootstrap
 
 
+TODO:
+- navbar com light switch
+- carousel
+- texto de introdução à NBA
+
+-pagina para todas as arenas
+-pagina para todas as equipas
+-pagina para todos os jogadores
+-pagina para todos os states
+-pagina para todas as seasons
+
+
